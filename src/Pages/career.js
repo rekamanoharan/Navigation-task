@@ -8,7 +8,7 @@ export default function Career() {
     <div>
     <div style={{"display":"flex"}}>
   <div class="card">
-  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Business-Analyst-An-Insight-into-Their-Life.jpg" class="card-img-top" alt="..." />
+  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Business-Analyst-An-Insight-into-Their-Life.jpg" referrerPolicy="no-referrer" class="card-img-top" alt="..." />
   <div class="card-body">
     <h5 class="card-title">Business Analyst – An Insight into Their Life</h5>
     <p class="card-text">Have you ever wondered how business tends to maintain everything in proper order despite having</p>
@@ -16,7 +16,7 @@ export default function Career() {
   </div>
 </div>
 <div class="card">
-  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Business-Analyst-Interview-Questions-With-Answers-1.jpg" class="card-img-top" alt="..." />
+  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Business-Analyst-Interview-Questions-With-Answers-1.jpg" referrerPolicy="no-referrer" class="card-img-top" alt="..." />
   <div class="card-body">
     <h5 class="card-title">Top 15 Business Analyst Interview Questions With Answers</h5>
     <p class="card-text">Business Analyst is a dream role for many but cracking the interview round is a</p>
@@ -24,7 +24,7 @@ export default function Career() {
   </div>
 </div>
 <div class="card">
-  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/06/UIUX_GD.jpg" class="card-img-top" alt="..." />
+  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/06/UIUX_GD.jpg" referrerPolicy="no-referrer" class="card-img-top" alt="..." />
   <div class="card-body">
     <h5 class="card-title">Graphic Designer vs. UI/UX Designer: Key Differences You Should Know</h5>
     <p class="card-text">It has always been confusing for people to understand the key differences between Graphic designers</p>
