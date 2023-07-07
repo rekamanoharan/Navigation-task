@@ -8,6 +8,7 @@ export default function All() {
           <img
             src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Business-Analyst-An-Insight-into-Their-Life.jpg"
             class="card-img-top"
+            referrerPolicy="no-referrer"
             alt="..."
           />
           <div class="card-body">
@@ -29,6 +30,7 @@ export default function All() {
         <div class="card">
           <img
             src="https://www.guvi.in/blog/wp-content/uploads/2023/07/Corporate-Training-programs-2.jpg"
+              referrerPolicy="no-referrer"
             class="card-img-top"
             alt="..."
           />
@@ -51,7 +53,8 @@ export default function All() {
         <div class="card">
           <img
             src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Business-Analyst-Interview-Questions-With-Answers-1.jpg"
-            class="card-img-top"
+            referrerPolicy="no-referrer"
+              class="card-img-top"
             alt="..."
           />
           <div class="card-body">
