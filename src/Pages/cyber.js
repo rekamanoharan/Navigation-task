@@ -11,6 +11,7 @@ export default function Cyber() {
         <div class="card">
           <img
             src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png"
+       referrerPolicy="no-referrer"
             class="card-img-top"
             alt="..."
           />
@@ -30,6 +31,7 @@ export default function Cyber() {
         <div class="card">
           <img
             src="https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif"
+              referrerPolicy="no-referrer"
             class="card-img-top"
             alt="..."
           />
@@ -50,7 +52,8 @@ export default function Cyber() {
         <div class="card">
           <img
             src="https://www.guvi.in/blog/wp-content/uploads/2022/11/Blue-Purple-Futuristic-Virus-Hacks-Youtube-Thumbnail.png"
-            class="card-img-top"
+            referrerPolicy="no-referrer"
+              class="card-img-top"
             alt="..."
           />
           <div class="card-body">
